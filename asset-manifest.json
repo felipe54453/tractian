@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tractian/static/css/main.07ad3eb7.chunk.css",
+    "main.js": "/tractian/static/js/main.0e013beb.chunk.js",
+    "main.js.map": "/tractian/static/js/main.0e013beb.chunk.js.map",
+    "runtime-main.js": "/tractian/static/js/runtime-main.7e7886d4.js",
+    "runtime-main.js.map": "/tractian/static/js/runtime-main.7e7886d4.js.map",
+    "static/css/2.4deadad5.chunk.css": "/tractian/static/css/2.4deadad5.chunk.css",
+    "static/js/2.c14c28e4.chunk.js": "/tractian/static/js/2.c14c28e4.chunk.js",
+    "static/js/2.c14c28e4.chunk.js.map": "/tractian/static/js/2.c14c28e4.chunk.js.map",
+    "index.html": "/tractian/index.html",
+    "precache-manifest.745f4ac985b07624f7e8b79c43cabb5a.js": "/tractian/precache-manifest.745f4ac985b07624f7e8b79c43cabb5a.js",
+    "service-worker.js": "/tractian/service-worker.js",
+    "static/css/2.4deadad5.chunk.css.map": "/tractian/static/css/2.4deadad5.chunk.css.map",
+    "static/css/main.07ad3eb7.chunk.css.map": "/tractian/static/css/main.07ad3eb7.chunk.css.map",
+    "static/js/2.c14c28e4.chunk.js.LICENSE.txt": "/tractian/static/js/2.c14c28e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e7886d4.js",
+    "static/css/2.4deadad5.chunk.css",
+    "static/js/2.c14c28e4.chunk.js",
+    "static/css/main.07ad3eb7.chunk.css",
+    "static/js/main.0e013beb.chunk.js"
+  ]
+}
